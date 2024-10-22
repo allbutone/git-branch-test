@@ -1,2 +1,0 @@
-content of four.txt
-another line for four.txt
