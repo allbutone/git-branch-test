@@ -1,4 +1,5 @@
 content of foo.txt here
 user1 add a line here
 user2 add a line here
+user1 add another line here
 user2 add another line here
