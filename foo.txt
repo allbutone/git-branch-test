@@ -1,1 +1,2 @@
 content of foo.txt here
+user1 add a line here
